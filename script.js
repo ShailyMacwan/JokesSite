@@ -1,4 +1,4 @@
-myJokes=[
+let myJokes= [
     {
         "category": "Programming",
         "type": "single",
@@ -150,3 +150,6 @@ myJokes=[
     }
 ]
 
+let i = Math.floor(Math.random() * (myJokes.length - 1))
+console.log(i)
+joke.innerHTML = myJokes[i].joke
