@@ -18,8 +18,7 @@ let myJokes= [
     {
         "category": "Programming",
         "type": "twopart",
-        "setup": "Why is Linux safe?",
-        "delivery": "Hackers peak through Windows only.",
+        "joke": "Why is Linux safe? Hackers peak through Windows only.",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -51,8 +50,7 @@ let myJokes= [
     {
         "category": "Christmas",
         "type": "twopart",
-        "setup": "What do Santa's little helpers learn at school?",
-        "delivery": "The elf-abet!\n",
+        "joke": "What do Santa's little helpers learn at school? The elf-abet!\n",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -84,8 +82,7 @@ let myJokes= [
     {
         "category": "Dark",
         "type": "twopart",
-        "setup": "When I was a kid, I made a really big sandcastle with my grandma.",
-        "delivery": "Unfortunately, that didn't impress anyone at the cremation...",
+        "joke": "When I was a kid, I made a really big sandcastle with my grandma. Unfortunately, that didn't impress anyone at the cremation...",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -101,8 +98,7 @@ let myJokes= [
     {
         "category": "Pun",
         "type": "twopart",
-        "setup": "I just saw my wife trip over and drop a basket full of ironed clothes.",
-        "delivery": "I watched it all unfold.",
+        "joke": "I just saw my wife trip over and drop a basket full of ironed clothes. I watched it all unfold.",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -134,8 +130,7 @@ let myJokes= [
     {
         "category": "Programming",
         "type": "twopart",
-        "setup": "Why do programmers wear glasses?",
-        "delivery": "Because they need to C#",
+        "joke": "Why do programmers wear glasses?Because they need to C#",
         "flags": {
             "nsfw": false,
             "religious": false,
