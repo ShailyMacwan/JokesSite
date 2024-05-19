@@ -4,16 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JokesSite</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
     <link href="style.css" rel="stylesheet" type="text/css"/>
     <style></style>
 </head>
 <body>
-    <h1>Wanna Laugh!!!</h1>
+    <p class="heading">Wanna Laugh!!!</p>
 
-    <div id="joke">This is a sample joke</div>
+    <p id="joke">This is a sample joke</p>
     <h2>&#128514;&#128514;&#128514;</h2>
+
     <h3>Wanna laugh more???? </h3>
-    <button onClick="window.location.reload();" >Click here!</button>
+
+    <div class="btn-group">
+        <button onclick="window.location.reload();">Yes</button>
+        <button id="btn" >No</button>    
+    </div> 
+    
     <script src="script.js"></script>
 
 </body>
